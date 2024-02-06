@@ -10,9 +10,9 @@ To run this project, you need the following:
 
 ## Setup Instructions
 Follow these steps to set up the project on your local machine:
-1. Make sure the db.json file is running at http://127.0.0.1:4000/transactions
-2. Clone the repository: `git clone git@github.com:Kmurll/phase-2-week-1-code-challenge.git`
-3. Navigate to the project directory: `cd phase-2-week-1-code-challenge `
+1. Make sure the db.json file is running at http://localhost:3000/transactions
+2. Clone the repository: `git clone git@github.com:ArchyMulei/ArchyMulei-Phase-2-Code-Challenge-Bank.git`
+3. Navigate to the project directory: `cd phase-2-Bank `
 4. Install dependencies: `npm install`
 5. Start the development server: `npm start`
 6. Open your browser and go to `http://localhost:3000` to access the app.
@@ -30,11 +30,10 @@ Follow these steps to set up the project on your local machine:
 5. You can view, add, and search for transactions seamlessly using the app's intuitive interface.
 
 ## Author
-Created Kelvin Mue
+Created Archibald Mulei
 
 ## Contact
-Feel free to contact me at kelvinmue@gmail.com for any questions or inquiries. Contributions are welcome! Visit the [GitHub repository](https://github.com/Kmurll/phase-2-week-1-code-challenge.git) to contribute.
+Feel free to contact me at archimulei023@gmail.com for any questions or inquiries. Contributions are welcome! Visit the [GitHub repository](https://github.com/ArchyMulei/ArchyMulei-Phase-2-Code-Challenge-Bank) to contribute.
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This project is licensed under the MIT License.
